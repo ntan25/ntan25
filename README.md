@@ -1,4 +1,4 @@
-# **Welcome to my personal **
+# **Neel Tangella's GitHub **
 
 ## About Me
 
@@ -14,6 +14,7 @@ studying [Quantitative Biology and Computer Science](https://www.qcb-dornsife.us
 ### Technologies/Libraries I'm familiar with
 - Python tools for Data Science ([numpy](https://numpy.org/), [scipy](https://scipy.org/), [matplotlib](https://matplotlib.org/))
 - C++ dev tools ([GNU](https://www.gnu.org/home.en.html), [GDB](https://www.sourceware.org/gdb/), [Valgrind](https://valgrind.org/))
+- MATLAB systems modeling 
 
 ### Relavent Classes Taken at USC 
 - CSCI 103: Introduction to Programming
@@ -24,7 +25,7 @@ studying [Quantitative Biology and Computer Science](https://www.qcb-dornsife.us
 
 ### What is on here?
 - [x] Some bad code I wrote and just wanted to catalogue for personal development to track my progress
-- [x] Private Repositories for all the code written for each of my classes *Want access?* **Just message me!** and I'll privately share (Can't post publically for integrity purposes)
+- [x] Private Repositories for all the code written for each of my classes ...*Want access?* **Just message me!** and I'll privately share (I can't post publically for integrity purposes)
 - [ ] My personal website which is currently a work in progress 
 
 
