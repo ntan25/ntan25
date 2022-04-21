@@ -1,4 +1,4 @@
-# **Hello!**
+# **Welcome to my personal **
 
 ## About Me
 
@@ -11,12 +11,21 @@ studying [Quantitative Biology and Computer Science](https://www.qcb-dornsife.us
 - [Java](https://www.java.com/en/)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
+### Technologies/Libraries I'm familiar with
+- Python tools for Data Science ([numpy](https://numpy.org/), [scipy](https://scipy.org/), [matplotlib](https://matplotlib.org/))
+- C++ dev tools ([GNU](https://www.gnu.org/home.en.html), [GDB](https://www.sourceware.org/gdb/), [Valgrind](https://valgrind.org/))
+
 ### Relavent Classes Taken at USC 
 - CSCI 103: Introduction to Programming
 - CSCI 170: Discrete Methods in Computer Science 
 - ITP 115: Programming in Python
 - ITP 168: Introduction to MATLAB
 - CSCI 104: Data Structures and Object Oriented Design
+
+### What is on here?
+- [x]Some bad code I wrote and just wanted to catalogue for personal development to track my progress
+- [x]Private Repositories for all the code written for each of my classes *Want access?* **Just message me!** and I'll privately share (Can't post publically for integrity purposes)
+- [ ]My personal website which is currently a work in progress 
 
 
 ## Contact Me!
