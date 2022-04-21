@@ -1,4 +1,4 @@
-# **Neel Tangella's GitHub **
+# **Neel Tangella's GitHub**
 
 ## About Me
 
