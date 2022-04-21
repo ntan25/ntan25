@@ -1,16 +1,32 @@
-### Hi there 👋
+# **Neel's Website TL;DR**
 
-<!--
-**ntan25/ntan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! :smile: 
 
-Here are some ideas to get you started:
+I am a student at the [Universty of Southern California](https://www.usc.edu/)
+studying [Quantitative Biology and Computer Science]
+(https://www.qcb-dornsife.usc.edu/). I hope to be in an engineering role some time in the future, looking to improve the human condition at scale. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What Languages am I currently familiar with?
+- [Python](https://www.python.org/)
+- [C++](https://www.cplusplus.com/)
+- [Java](https://www.java.com/en/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+
+### Relavent Classes Taken at USC 
+- CSCI 103: Introduction to Programming
+- CSCI 170: Discrete Methods in Computer Science 
+- ITP 115: Programming in Python
+- ITP 168: Introduction to MATLAB
+- CSCI 104: Data Structures and Object Oriented Design
+
+
+## Contact Me!
+- Email: 
+    - Personal: [neel.tangella@icloud.com](neel.tangella@icloud.com)
+    - Academic: [tangella@usc.edu](tangella@usc.edu)
+- [LinkedIn](https://www.linkedin.com/in/neel-tangella/)
+
+
+
+
