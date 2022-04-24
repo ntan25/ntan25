@@ -25,7 +25,7 @@ studying [Quantitative Biology and Computer Science](https://www.qcb-dornsife.us
 
 ### What is on here?
 - [x] Some bad code I wrote and just wanted to catalogue for personal development to track my progress
-- [x] Private Repositories for all the code written for each of my classes ...*Want access?* **Just message me!** and I'll privately share (I can't post publically for integrity purposes)
+- [x] Private Repositories for all the code written for each of my classes listed above
 - [ ] My personal website which is currently a work in progress 
 
 
