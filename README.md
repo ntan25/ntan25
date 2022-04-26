@@ -3,7 +3,7 @@
 ## About Me
 
 I am a student at the [Universty of Southern California](https://www.usc.edu/)
-studying [Quantitative Biology and Computer Science](https://www.qcb-dornsife.usc.edu/). I hope to be in an engineering role some time in the future, looking to improve the human condition at scale. 
+studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer Science](https://www.cs.usc.edu/academic-programs/undergrad/minor-computer-science/). I hope to be in an engineering role some time in the future, looking to improve the human condition at scale. 
 
 ### What Languages am I currently familiar with?
 - [Python](https://www.python.org/)
