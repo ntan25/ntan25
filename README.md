@@ -24,9 +24,11 @@ studying [Quantitative Biology and Computer Science](https://www.qcb-dornsife.us
 - CSCI 104: Data Structures and Object Oriented Design
 
 ### What is on here?
-- [x] Some bad code I wrote and just wanted to catalogue for personal development to track my progress
-- [x] Private Repositories for all the code written for each of my classes listed above
-- [ ] My personal website which is currently a work in progress 
+- Some bad code I wrote and just wanted to catalogue for personal development to track my progress
+- Some code from online courses I took 
+- Some code in certain domains
+- Private Repositories for all the code written for each of my classes listed above
+- My personal website which is currently a work in progress 
 
 
 ## Contact Me!
