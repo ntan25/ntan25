@@ -9,6 +9,7 @@ studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer
 - [Python](https://www.python.org/)
 - [C++](https://www.cplusplus.com/)
 - [Java](https://www.java.com/en/)
+- [JavaScript] (https://www.javascript.com/)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ### Technologies/Libraries I'm familiar with
@@ -22,12 +23,14 @@ studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer
 - ITP 115: Programming in Python
 - ITP 168: Introduction to MATLAB
 - CSCI 104: Data Structures and Object Oriented Design
+- CSCI 201: Principles of Software Development 
+- CSCI 360: Introduction to Artificial Intelligence 
 
 ### What is on here?
 - Some bad code I wrote and just wanted to catalogue for personal development to track my progress
-- Some code from online courses I took 
-- Some code in certain domains
-- Private Repositories for all the code written for each of my classes listed above
+- Code from online courses I took through Udemy
+- Code in certain domains (Statistics, Bioinformatics), nothing too fancy, this code is old too 
+- Private Repositories for all the code written for each of my classes listed above 
 - My personal website which is currently a work in progress 
 
 
