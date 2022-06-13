@@ -9,7 +9,7 @@ studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer
 - [Python](https://www.python.org/)
 - [C++](https://www.cplusplus.com/)
 - [Java](https://www.java.com/en/)
-- [JavaScript] (https://www.javascript.com/)
+- [JavaScript](https://www.javascript.com/)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ### Technologies/Libraries I'm familiar with
