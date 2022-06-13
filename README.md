@@ -33,6 +33,7 @@ studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer
 - Code in certain domains (Statistics, Bioinformatics), nothing too fancy, this code is old too 
 - Private Repositories for all the code written for each of my classes listed above 
 - My personal website which is currently a work in progress 
+- LeetCode Solutions
 
 
 ## Contact Me!
