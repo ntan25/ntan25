@@ -15,7 +15,8 @@ studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer
 ### Technologies/Libraries I'm familiar with
 - Python tools for Data Science ([numpy](https://numpy.org/), [scipy](https://scipy.org/), [matplotlib](https://matplotlib.org/))
 - C++ dev tools ([GNU](https://www.gnu.org/home.en.html), [GDB](https://www.sourceware.org/gdb/), [Valgrind](https://valgrind.org/))
-- MATLAB systems modeling 
+- MATLAB Dynamics Modeling
+- JavaScript tools for creating web applications ([ReactJS](https://reactjs.org/)), ([NodeJS](https://nodejs.org/en/)), ([TailwindsCSS](https://tailwindcss.com/)) 
 
 ### Relavent Classes Taken at USC 
 - CSCI 103: Introduction to Programming
