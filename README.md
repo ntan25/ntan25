@@ -26,6 +26,8 @@ studying [Quantitative Biology](https://www.qcb-dornsife.usc.edu/) and [Computer
 - CSCI 104: Data Structures and Object Oriented Design (**C++**)
 - CSCI 201: Principles of Software Development (**Java**, **HTML**, **CSS**)
 - CSCI 360: Introduction to Artificial Intelligence (**C++**)
+- CSCI 310: Software Engineering
+- CSCI 270: Analysis of Algorithms
 
 ### What is on here?
 - Some bad code I wrote and just wanted to catalogue for personal development to track my progress
